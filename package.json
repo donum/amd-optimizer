@@ -15,7 +15,7 @@
   "dependencies": {
     "ast-traverse": "~0.1.1",
     "lodash": "^4.17.15",
-    "recast": "~0.15.3",
+    "recast": "https://github.com/donum/recast/tarball/master",
     "requirejs": "^2.3.6",
     "slash": "^2.0.0",
     "strip-bom": "^3.0.0",
